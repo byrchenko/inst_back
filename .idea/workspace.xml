@@ -44,11 +44,23 @@
       <option name="presentableId" value="Default" />
       <updated>1601811630463</updated>
       <workItem from="1601811632059" duration="3604000" />
-      <workItem from="1601946239472" duration="4978000" />
+      <workItem from="1601946239472" duration="5380000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app.js</url>
+          <line>37</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
